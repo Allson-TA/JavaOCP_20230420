@@ -13,5 +13,5 @@ public class Hello {
 		double area = Math.PI * Math.pow(r, 2);
 		System.out.printf("面積: %,.2f\n",area);
 	}
-//qecwfwasdas
+//qecwfwasdassdaa
 }
