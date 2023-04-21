@@ -8,8 +8,9 @@ public class Hello2 {
 		Random random = new Random();
 		while (true) {
 			System.out.println(random.nextInt(100));
+			System.out.println(random.nextInt(100));
 		}
 
 	}
 
-}//aaaaaa
+}//aaaaaarg
