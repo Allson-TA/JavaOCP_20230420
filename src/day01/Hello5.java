@@ -24,7 +24,7 @@ public class Hello5 {
 			int sum = chinese + math + english;
 			double avg = sum / 3.0;
 			System.out.printf("平均: %1f\n",avg);
-		}//s
+		}//ss
 		
 		public static void printSumAndAvg(int chinese,int math,int english) {
 			printSum(chinese,math,english);
