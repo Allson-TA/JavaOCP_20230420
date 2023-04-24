@@ -8,7 +8,7 @@ public class Hello {
 		System.out.println("Hello Java");
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("請輸入半徑:");
-		double r = scanner.nextDouble();
+		double r = scanner.nextDouble();	//test
 		//	計算園面積
 		double area = Math.PI * Math.pow(r, 2);
 		System.out.printf("面積: %,.2f\n",area);
