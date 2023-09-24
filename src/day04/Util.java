@@ -1,5 +1,7 @@
 package day04;
 
+import java.util.List;
+
 public class Util {
 	// 專門計算 double[] 平均的方法
 
@@ -27,6 +29,11 @@ public class Util {
 	public static double getCV(double[] items) {
 		double cv = getSD(items) / getAvg(items);
 		return cv;
+	}
+
+	public static List<String> getLines(String string) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 	
 }
